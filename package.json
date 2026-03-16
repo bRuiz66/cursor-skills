@@ -1,6 +1,6 @@
 {
   "name": "cursor-skills",
-  "version": "0.1.36",
+  "version": "0.1.37",
   "description": "CURSOR IDE best practices and guidelines",
   "main": "src/index.js",
   "scripts": {
